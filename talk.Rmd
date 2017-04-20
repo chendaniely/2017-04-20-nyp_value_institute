@@ -380,7 +380,20 @@ Questions:
 
 ## Wicer EntiCE3
 
-Main Lesson: Running software for non-technical people
+<div class="column-left2">
+<img src='figures/entice3_example.png' width=95%/>
+</div>
+
+<div class="column-right2">
+- Adriana Arcia, Mark Velez, Suzanne Bakken
+- Niurka Suero-Tejeda, Amenda Almonte
+- Programatically generate infographics
+- Improve health literacy
+</div>
+
+- https://github.com/chendaniely/wicer-entice3
+
+Main Lesson: Running software for non-technical people (shiny?)
 
 ## Mass Casuality
 
@@ -389,21 +402,40 @@ Main Lesson: Running software for non-technical people
 - 2015: Are We Ready for Mass Fatality Incidents? Preparedness of the US Mass Fatality Infrastructure
     - Jacqueline A. Merrill, Mark Orr, Daniel Y. Chen, Qi Zhi, and Robyn R. Gershon
 
-Main Findings:
+Main Findings: "The sectors in the US mass fatality infrastructure report suboptimal capability to respond.
+National leadership is needed..."
 
-Main Lessons: Data quality governs analysis
+Lessons Learned: Data quality governs analysis
 
 ## Patterns of Care: Congestive Heart Failure
 
+- "Transition Networks in a Cohort of Patients with Congestive Heart Failure"
 - Jacqueline A. Merrill
 - Kathleen M. Carley
 - Barbara Sheehan
+
+- Looked for patients who had no re-admissions, re-admissions, and multiple re-admisisons
+
+Lessons Learned: EHR Data is **really** messy
 
 # Work
 
 ## OpenX
 
 - Open [Access, Source, Education, Data]
+
+- Education: https://github.com/bi-sdal/workshop
+- Data: https://chendaniely.shinyapps.io/zika_cdc_dashboard/
+    - Open Zika Dataset
+    - Lessons learned from Caitlin Rivers: https://github.com/cmrivers/ebola
+    
+## Open Data Zika Dashboard
+
+<img src='figures/open_data_zika.png' width=95% />
+
+## Open Data Brazil
+
+<img src='figures/open_data_brazil_example.png' width=95% />
 
 ## Scientific Computing
 
@@ -416,6 +448,9 @@ Main Lessons: Data quality governs analysis
 ## Social and Decision Analytics Lab
 
 - Data Science Deployment Infrastructure
+    - VirtualBox VMs
+    - LXC Containers
+    - Docker Containers
 
 ## Thanks!
 
@@ -424,7 +459,7 @@ Computational. Network. Epidemiology.
 - github: chendaniely
 - twitter: chendaniely
 - orcid: [orcid.org/0000-0003-3857-1741][14]
-- talk: 
+- talk: https://github.com/chendaniely/2017-04-20-nyp_value_institute
 
 [1]: http://gbcb.vbi.vt.edu/
 [2]: https://www.bi.vt.edu/sdal
