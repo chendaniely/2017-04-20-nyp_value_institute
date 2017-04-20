@@ -5,7 +5,6 @@ date: "April 17, 2017"
 output:
   ioslides_presentation:
     keep_md: yes
-  beamer_presentation: default
   slidy_presentation: default
 subtitle: New York - Presbyterian Hospital’s Value Institute
 ---
@@ -51,13 +50,13 @@ Computational. Network. Epidemiology.
 ## About Me
 
 - PhD Student at Virginia Tech
-    - Interdisplinary
+    - Interdisciplinary
     - [Genetics, Bioinformatics, and Computational Biology][1]
 
 - [Social and Decision Analytics Laboratory][2]
     - Arlington, VA
 
-- MPH, Epidmiology, Mailman School of Public Health
+- MPH, Epidemiology, Mailman School of Public Health
     - STATW4242: Introduction to Data Science, Fall 2013
         - [Kayur Patel, PhD][3]
         - [Rachel Rosenthal Schutt, PhD][4]
@@ -248,7 +247,7 @@ More than a fixed fraction of a large, but finite network.
 Diffution of Innovations:
 
 - Innovators ~ initial seed
-- Early adopters ~ vulnerable vertices (nodes)
+- Early adopters ~ vulnerable nodes
 
 - A cascade will occur if innovators are connected to many early adopters (**connectivity**)
 - More early adopters, higher chance of innovation, but they need to be connected (**structure**)
@@ -274,7 +273,7 @@ $\phi$ and $k$ are 2 parameters we can change
     - To simplify the simulations, the paper has a homogeneous threshold, $\phi$
 - The network is a uniform random graph
 - A small seed
-- Any pair of vertices is connected with probability $p = \frac{z}{n}$
+- Any pair of nodes is connected with probability $p = \frac{z}{n}$
     - in a uniform random graph, $p_k = $ Poisson distribution
 - $n = 10,000$
 - 100 random runs of each simulation
@@ -376,7 +375,7 @@ Questions:
 - Signal Decomposition/analysis
 - Projections (t-sne)
 
-# (Relevent?) Past Work
+# (Relevant?) Past Work
 
 ## Wicer EntiCE3
 
@@ -395,7 +394,7 @@ Questions:
 
 Main Lesson: Running software for non-technical people (shiny?)
 
-## Mass Casuality
+## Mass Casualty
 
 - 2014: Mass fatality preparedness among medical examiners/coroners in the United States: a cross-sectional study
     - Robyn RM Gershon, Mark G Orr, Qi Zhi, Jacqueline A Merrill, Daniel Y Chen, Halley EM Riley, and Martin F Sherman
@@ -414,7 +413,7 @@ Lessons Learned: Data quality governs analysis
 - Kathleen M. Carley
 - Barbara Sheehan
 
-- Looked for patients who had no re-admissions, re-admissions, and multiple re-admisisons
+- Looked for patients who had no re-admissions, re-admissions, and multiple re-admissions
 
 Lessons Learned: EHR Data is **really** messy
 
