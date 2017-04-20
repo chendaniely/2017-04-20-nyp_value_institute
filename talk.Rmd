@@ -80,7 +80,7 @@ Computational. Network. Epidemiology.
 - [Cleaning Data in Python][10], DataCamp
 - Writing: [Pandas for Everyone][11], Pearson, Addison-Wesley Data and Analytics
 - Workshop Recordings
-    - [PyData][13]
+    - [PyData][13] [DC][22]/[Carolinas][23]
     - [Data Intensive Biology][12]
 
 # Current Work
@@ -486,3 +486,5 @@ Computational. Network. Epidemiology.
 [19]: http://blog.iseesystems.com/stella-ithink/limits-to-growth/
 [20]: https://github.com/chendaniely
 [21]: https://twitter.com/chendaniely
+[22]: https://pydata.org/dc2016/schedule/presentation/43/
+[23]: https://pydata.org/carolinas2016/schedule/presentation/79/
