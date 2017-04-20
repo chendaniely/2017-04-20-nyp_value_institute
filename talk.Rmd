@@ -447,6 +447,10 @@ Lessons Learned: EHR Data is **really** messy
 
 ## Social and Decision Analytics Lab
 
+<center>
+<img src='figures/data-science-for-public-good-student-photo-overview.jpg' />
+</center>
+
 - Data Science Deployment Infrastructure
     - VirtualBox VMs
     - LXC Containers
